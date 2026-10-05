@@ -8,105 +8,105 @@ const CONTACT = {
 
 const featuredVideos = [
   {
-    "id": "cPl8z5m_nwY",
+    "id": "vTOH8dpboH0",
     "p": "youtube",
     "o": "horizontal",
     "tag": "Case de Sucesso",
     "title": "Cineart - Meet Tecnologia"
   },
   {
-    "id": "5WfArSZJtqQ",
+    "id": "kRV6xSHG__w",
     "p": "youtube",
     "o": "vertical",
     "tag": "Minidocumentário",
     "title": "Projeto Aula de Violino"
   },
   {
-    "id": "1224267195",
+    "id": "1233098511",
     "p": "vimeo",
     "o": "vertical",
     "tag": "Minidocumentário",
     "title": "Seminário Rota Ius Edição Mineração"
   },
   {
-    "id": "cIyIuvIzV0g",
+    "id": "4gZioQSLWYg",
     "p": "youtube",
     "o": "vertical",
     "tag": "Minidocumentário",
     "title": "Aniversário do Barreiro Minas Canta Vander Lee"
   },
   {
-    "id": "MI6pCyYpMlc",
+    "id": "DdQKJTqSlWo",
     "p": "youtube",
     "o": "vertical",
     "tag": "Campanha Publicitária",
     "title": "Confiber · Cacau Show"
   },
   {
-    "id": "AVlMyYiXCCk",
+    "id": "lcJuCTrI0wg",
     "p": "youtube",
     "o": "horizontal",
     "tag": "Case de Sucesso",
     "title": "Grupo Avante · Meet Tecnologia"
   },
   {
-    "id": "qnQ3ddtiaXE",
+    "id": "llH5GXp3xow",
     "p": "youtube",
     "o": "vertical",
     "tag": "Campanha Publicitária",
     "title": "Confiber - Loja do Galo"
   },
   {
-    "id": "C3Atq_Dytb0",
-    "p": "youtube",
+    "id": "1233104545",
+    "p": "vimeo",
     "o": "vertical",
     "tag": "Campanha Publicitária",
     "title": "Mês das Mães"
   },
   {
-    "id": "1195816891",
+    "id": "1233098510",
     "p": "vimeo",
     "o": "vertical",
     "tag": "Minidocumentário",
     "title": "Festival Nacional da Música Sertaneja Mangalarga Marchador"
   },
   {
-    "id": "rsau38g08H0",
+    "id": "TZOEGnF5968",
     "p": "youtube",
     "o": "vertical",
     "tag": "Campanha Publicitária",
     "title": "Betim Futebol"
   },
   {
-    "id": "CgfEWgE_8Aw",
+    "id": "DDvoJgs78XA",
     "p": "youtube",
     "o": "horizontal",
     "tag": "Case de Sucesso",
     "title": "Biologistica · Meet Tecnologia"
   },
   {
-    "id": "1194588209",
+    "id": "1233098512",
     "p": "vimeo",
     "o": "vertical",
     "tag": "Campanha Publicitária",
     "title": "Marcos Catarina canta Vander Lee"
   },
   {
-    "id": "f-1-GuYiWyw",
-    "p": "youtube",
+    "id": "1233104544",
+    "p": "vimeo",
     "o": "vertical",
     "tag": "Minidocumentário",
     "title": "Aniversário do Barreiro Passeio Turístico no Barreiro"
   },
   {
-    "id": "Lh0dqk9DdqI",
+    "id": "cA5QRMacEXE",
     "p": "youtube",
     "o": "vertical",
     "tag": "Minidocumentário",
     "title": "Aniversário do Barreiro Standup Thiago Carmona"
   },
   {
-    "id": "zpbKSZBjGB8",
+    "id": "fD5yOOhEugw",
     "p": "youtube",
     "o": "vertical",
     "tag": "Campanha Publicitária",
@@ -115,20 +115,21 @@ const featuredVideos = [
 ];
 
 const manualThumbs = {
-  "1194588209": "assets/thumbs/thumb-05-1194588209.png.jpeg",
-  "1195816891": "assets/thumbs/thumb-17-1196948372.png.jpeg",
-  "1224267195": "assets/thumbs/thumb-rota-ius-1224267195-print-7.png",
-  "Lh0dqk9DdqI": "assets/thumbs/thumb-thiago-carmona-Lh0dqk9DdqI.png",
-  "AVlMyYiXCCk": "assets/thumbs/thumb-grupo-avante-AVlMyYiXCCk.png",
-  "zpbKSZBjGB8": "assets/thumbs/thumb-conselho-massa-zpbKSZBjGB8.png",
-  "f-1-GuYiWyw": "assets/thumbs/thumb-tour-barreiro-f-1-GuYiWyw.png",
-  "5WfArSZJtqQ": "assets/thumbs/thumb-aula-violino-5WfArSZJtqQ.png",
-  "qnQ3ddtiaXE": "assets/thumbs/thumb-loja-galo-qnQ3ddtiaXE.png",
-  "cIyIuvIzV0g": "assets/thumbs/thumb-minas-canta-cIyIuvIzV0g.png",
-  "MI6pCyYpMlc": "assets/thumbs/thumb-cacau-show-MI6pCyYpMlc.png",
-  "rsau38g08H0": "assets/thumbs/thumb-betim-rsau38g08H0.png",
-  "cPl8z5m_nwY": "assets/thumbs/thumb-07-cPl8z5m_nwY.png.jpeg",
-  "CgfEWgE_8Aw": "assets/thumbs/thumb-10-CgfEWgE_8Aw.png.jpeg"
+  "vTOH8dpboH0": "assets/thumbs/thumb-07-cPl8z5m_nwY.png.jpeg",
+  "kRV6xSHG__w": "assets/thumbs/thumb-aula-violino-5WfArSZJtqQ.png",
+  "1233098511": "assets/thumbs/thumb-rota-ius-1224267195-print-7.png",
+  "4gZioQSLWYg": "assets/thumbs/thumb-minas-canta-cIyIuvIzV0g.png",
+  "DdQKJTqSlWo": "assets/thumbs/thumb-cacau-show-MI6pCyYpMlc.png",
+  "lcJuCTrI0wg": "assets/thumbs/thumb-grupo-avante-AVlMyYiXCCk.png",
+  "llH5GXp3xow": "assets/thumbs/thumb-loja-galo-qnQ3ddtiaXE.png",
+  "1233104545": "assets/thumbs/thumb-maes.jpg",
+  "1233098510": "assets/thumbs/thumb-17-1196948372.png.jpeg",
+  "TZOEGnF5968": "assets/thumbs/thumb-betim-rsau38g08H0.png",
+  "DDvoJgs78XA": "assets/thumbs/thumb-10-CgfEWgE_8Aw.png.jpeg",
+  "1233098512": "assets/thumbs/thumb-05-1194588209.png.jpeg",
+  "1233104544": "assets/thumbs/thumb-tour-barreiro-f-1-GuYiWyw.png",
+  "cA5QRMacEXE": "assets/thumbs/thumb-thiago-carmona-Lh0dqk9DdqI.png",
+  "fD5yOOhEugw": "assets/thumbs/thumb-conselho-massa-zpbKSZBjGB8.png"
 };
 
 const modal = document.querySelector('#videoModal');
@@ -151,9 +152,7 @@ function directUrl(video) {
 }
 
 function thumbUrl(video) {
-  return manualThumbs[video.id] || (video.p === 'vimeo'
-    ? `https://vumbnail.com/${video.id}_large.jpg`
-    : `https://i.ytimg.com/vi/${video.id}/maxresdefault.jpg`);
+  return manualThumbs[video.id];
 }
 
 function createCard(video, index) {
@@ -173,12 +172,6 @@ function createCard(video, index) {
   image.loading = video.o === 'horizontal' ? 'eager' : 'lazy';
   image.decoding = 'async';
   image.draggable = false;
-  // Preserve a imagem manual; recorra à plataforma apenas se ela falhar.
-  image.addEventListener('error', () => {
-    image.src = video.p === 'vimeo'
-      ? `https://vumbnail.com/${video.id}.jpg`
-      : `https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`;
-  }, { once: true });
   const play = document.createElement('span');
   play.className = 'play-icon';
   play.setAttribute('aria-hidden', 'true');
