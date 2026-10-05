@@ -2,7 +2,7 @@
 
 // Altere o telefone e a mensagem de contato somente aqui.
 const CONTACT = {
-  phone: "5531983335876",
+  phone: "5531989736847",
   message: "Olá, Gustavo! Vi seu portfólio e gostaria de conversar sobre um trabalho.",
 };
 
