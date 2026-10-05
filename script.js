@@ -1,5 +1,7 @@
 "use strict";
 
+const ASSET_VERSION = document.querySelector('meta[name="asset-version"]')?.content || "20261005-cache-1";
+
 // Altere o telefone e a mensagem de contato somente aqui.
 const CONTACT = {
   phone: "5531989736847",
@@ -152,7 +154,7 @@ function directUrl(video) {
 }
 
 function thumbUrl(video) {
-  return manualThumbs[video.id];
+  return `${manualThumbs[video.id]}?v=${ASSET_VERSION}`;
 }
 
 function createCard(video, index) {
