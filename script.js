@@ -15,11 +15,81 @@ const featuredVideos = [
     "title": "Cineart - Meet Tecnologia"
   },
   {
+    "id": "5WfArSZJtqQ",
+    "p": "youtube",
+    "o": "vertical",
+    "tag": "Minidocumentário",
+    "title": "Projeto Aula de Violino"
+  },
+  {
+    "id": "1224267195",
+    "p": "vimeo",
+    "o": "vertical",
+    "tag": "Minidocumentário",
+    "title": "Seminário Rota Ius Edição Mineração"
+  },
+  {
+    "id": "cIyIuvIzV0g",
+    "p": "youtube",
+    "o": "vertical",
+    "tag": "Minidocumentário",
+    "title": "Aniversário do Barreiro Minas Canta Vander Lee"
+  },
+  {
+    "id": "MI6pCyYpMlc",
+    "p": "youtube",
+    "o": "vertical",
+    "tag": "Campanha Publicitária",
+    "title": "Confiber · Cacau Show"
+  },
+  {
+    "id": "AVlMyYiXCCk",
+    "p": "youtube",
+    "o": "horizontal",
+    "tag": "Case de Sucesso",
+    "title": "Grupo Avante · Meet Tecnologia"
+  },
+  {
+    "id": "qnQ3ddtiaXE",
+    "p": "youtube",
+    "o": "vertical",
+    "tag": "Campanha Publicitária",
+    "title": "Confiber - Loja do Galo"
+  },
+  {
+    "id": "C3Atq_Dytb0",
+    "p": "youtube",
+    "o": "vertical",
+    "tag": "Campanha Publicitária",
+    "title": "Mês das Mães"
+  },
+  {
+    "id": "1195816891",
+    "p": "vimeo",
+    "o": "vertical",
+    "tag": "Minidocumentário",
+    "title": "Festival Nacional da Música Sertaneja Mangalarga Marchador"
+  },
+  {
     "id": "rsau38g08H0",
     "p": "youtube",
     "o": "vertical",
     "tag": "Campanha Publicitária",
     "title": "Betim Futebol"
+  },
+  {
+    "id": "CgfEWgE_8Aw",
+    "p": "youtube",
+    "o": "horizontal",
+    "tag": "Case de Sucesso",
+    "title": "Biologistica · Meet Tecnologia"
+  },
+  {
+    "id": "1194588209",
+    "p": "vimeo",
+    "o": "vertical",
+    "tag": "Campanha Publicitária",
+    "title": "Marcos Catarina canta Vander Lee"
   },
   {
     "id": "f-1-GuYiWyw",
@@ -36,81 +106,11 @@ const featuredVideos = [
     "title": "Aniversário do Barreiro Standup Thiago Carmona"
   },
   {
-    "id": "C3Atq_Dytb0",
-    "p": "youtube",
-    "o": "vertical",
-    "tag": "Campanha Publicitária",
-    "title": "Mês das Mães"
-  },
-  {
-    "id": "AVlMyYiXCCk",
-    "p": "youtube",
-    "o": "horizontal",
-    "tag": "Case de Sucesso",
-    "title": "Grupo Avante · Meet Tecnologia"
-  },
-  {
     "id": "zpbKSZBjGB8",
     "p": "youtube",
     "o": "vertical",
     "tag": "Campanha Publicitária",
     "title": "Conselho da Massa"
-  },
-  {
-    "id": "1195816891",
-    "p": "vimeo",
-    "o": "vertical",
-    "tag": "Minidocumentário",
-    "title": "Festival Nacional da Música Sertaneja Mangalarga Marchador"
-  },
-  {
-    "id": "1224267195",
-    "p": "vimeo",
-    "o": "vertical",
-    "tag": "Minidocumentário",
-    "title": "Seminário Rota Ius Edição Mineração"
-  },
-  {
-    "id": "1194588209",
-    "p": "vimeo",
-    "o": "vertical",
-    "tag": "Campanha Publicitária",
-    "title": "Marcos Catarina canta Vander Lee"
-  },
-  {
-    "id": "CgfEWgE_8Aw",
-    "p": "youtube",
-    "o": "horizontal",
-    "tag": "Case de Sucesso",
-    "title": "Biologistica · Meet Tecnologia"
-  },
-  {
-    "id": "MI6pCyYpMlc",
-    "p": "youtube",
-    "o": "vertical",
-    "tag": "Campanha Publicitária",
-    "title": "Confiber · Cacau Show"
-  },
-  {
-    "id": "cIyIuvIzV0g",
-    "p": "youtube",
-    "o": "vertical",
-    "tag": "Minidocumentário",
-    "title": "Aniversário do Barreiro Minas Canta Vander Lee"
-  },
-  {
-    "id": "qnQ3ddtiaXE",
-    "p": "youtube",
-    "o": "vertical",
-    "tag": "Campanha Publicitária",
-    "title": "Confiber - Loja do Galo"
-  },
-  {
-    "id": "5WfArSZJtqQ",
-    "p": "youtube",
-    "o": "vertical",
-    "tag": "Minidocumentário",
-    "title": "Projeto Aula de Violino"
   }
 ];
 
