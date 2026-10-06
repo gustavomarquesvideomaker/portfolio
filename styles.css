@@ -113,13 +113,14 @@ h1, h2, h3, p { margin: 0; }
   .wordmark { font-size: 18px; }
   .wordmark span { max-width: 180px; font-size: 8px; letter-spacing: 1px; line-height: 1.7; }
   .contact-link { font-size: 11px; gap: 7px; }
-  .hero { min-height: 0; aspect-ratio: 4 / 5; }
+  .hero { min-height: 335px; height: clamp(335px, 100vw, 390px); aspect-ratio: auto; }
   .hero::after { background: linear-gradient(90deg, rgba(8,10,11,.93) 0%, rgba(8,10,11,.8) 58%, rgba(8,10,11,.25) 100%), linear-gradient(0deg, rgba(8,10,11,.72) 0%, rgba(8,10,11,.18) 55%, transparent 100%); }
-  .hero-content { padding-block: 38px; }
-  .intro h1 { max-width: 100%; font-size: clamp(34px, 8vw, 46px); }
-  .intro-bottom { display: flex; margin-top: 23px; gap: 20px; }
-  .intro-bottom p { font-size: 13px; }
-  .hero .contact-button { margin-top: 0; }
+  .hero-content { justify-content: flex-start; padding-block: 30px 24px; }
+  .intro h1 { max-width: 52vw; font-size: clamp(28px, 7.6vw, 32px); line-height: 1.08; }
+  .intro h1 span { margin-top: 6px; font-size: .62em; }
+  .intro-bottom { display: flex; margin-top: 18px; gap: 14px; }
+  .intro-bottom p { font-size: 12px; line-height: 1.55; }
+  .hero .contact-button { min-height: 46px; margin-top: 0; padding-inline: 18px; }
   .section-heading { gap: 14px; padding-top: 18px; margin-bottom: 20px; }
   .section-heading h2 { font-size: 15px; }
   .section-count { font-size: 9px; letter-spacing: 0; }
